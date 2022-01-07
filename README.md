@@ -1,2 +1,2 @@
 # Satranc
-C dilinde yazilmis satranc ogertici uygulama
+C dilinde yazilmis satranc ogretici uygulama
